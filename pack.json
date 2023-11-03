@@ -1,0 +1,11 @@
+{
+  "name": "GX Boy(BG Music)by Opera Software",
+  "author": "DreamerSouls",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "mappings": {},
+  "ignore": [
+    "intro_music.mp3"
+  ],
+  "id":""
+}
